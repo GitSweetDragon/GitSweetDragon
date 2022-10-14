@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GitSweetDragon
-- 👀 I’m interested in Mac OS / Windows / Azure / Jamf
+- 👀 I’m interested in Mac OS / Windows / Azure / Jamf & more
 - 🌱 I’m currently learning ... everything
 
 <!---
